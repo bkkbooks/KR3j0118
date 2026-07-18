@@ -630,6 +630,7 @@ markers:
       ', id: KR3j0118_krp_003-bkkkrnewl131}
   - {type: line-break, offset: 1998, content: '', id: KR3j0118_WYG_003-8a06}
   - {type: punctuation, offset: 2006, content: (, id: KR3j0118_krp_003-bkkpn1}
+  - {type: voice, offset: 2006, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2008, content: /, id: KR3j0118_krp_003-bkkpn2}
   - {type: punctuation, offset: 2010, content: ), id: KR3j0118_krp_003-bkkpn3}
   - {type: substitution, offset: 2012, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
@@ -760,6 +761,7 @@ markers:
       ', id: KR3j0118_krp_003-bkkkrnewl159}
   - {type: line-break, offset: 2414, content: '', id: KR3j0118_WYG_003-9b07}
   - {type: punctuation, offset: 2423, content: (, id: KR3j0118_krp_003-bkkpn4}
+  - {type: voice, offset: 2423, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2424, content: /, id: KR3j0118_krp_003-bkkpn5}
   - {type: punctuation, offset: 2424, content: ), id: KR3j0118_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 2435, content: '
@@ -1107,4 +1109,4 @@ markers:
 
       ', id: KR3j0118_krp_003-bkkkrnewl233}
   back: []
-hash: sha256:4ccda4cf25f233729cd85558bf4caf229a4d88e5b517fe97326b92f5aa3af87a
+hash: sha256:4fc0e9d4ffbe6c56c7b67828c0ee7842415ea1110f74705e77efdbd6f44301bc
